@@ -1,6 +1,6 @@
 /**
  * @name LoochisCord
- * @author Loochis | loochis#
+ * @author Loochis | loochis#3662
  * @description My mod of Patryk Bliemanins Cyberpunk 2077 Theme - https://github.com/PatrykBielanin/discord-cyberpunk2077-theme
  * @version 1.0.0
  * @source https://github.com/Loochis/discord-loochis
@@ -11,8 +11,8 @@
 @import url('https://loochis.github.io/discord-loochis/base.css');
 
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-primary: linear-gradient(180deg, rgba(23,23,23,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
+    --background-secondary: linear-gradient(180deg, rgba(23,23,23,.75) 10%, rgba(0,0,0,1) 65%); /* Background gradient */
     --font-primary: 'Rajdhani'; /* Font */
     --primary-text-color: lightgray; /* Font color */
 
