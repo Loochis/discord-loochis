@@ -1,6 +1,6 @@
 :root {
-    --background-primary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
-    --background-secondary: linear-gradient(180deg, rgba(23,0,5,.75) 10%, rgba(0,0,0,1) 65%);
+    --background-primary: linear-gradient(180deg, rgba(40,40,40,.75) 10%, rgba(20,20,20,.50) 65%);
+    --background-secondary: linear-gradient(180deg, rgba(40,40,40,.75) 10%, rgba(20,20,20,.50) 65%);
     --font-primary: 'Rajdhani';
     --primary-text-color: rgb(194, 194, 194);
 
