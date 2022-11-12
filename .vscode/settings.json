@@ -1,0 +1,6 @@
+{
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysSignOff": true,
+    "git.enableSmartCommit": true,
+    "git.inputValidation": "off"
+}
